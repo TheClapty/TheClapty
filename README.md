@@ -1,6 +1,6 @@
 ## 🧠 Tech Arsenal
 
-> *"Experience is the name everyone gives to their mistakes"*  
+> *"Experience is what you SHOULD name your mistakes"*  
 
 <div align="center">
 
@@ -33,7 +33,3 @@
 <a href="https://github.com/TheClapty" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://discord.com/users/814193000490074132" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
----
-
-> 🕶️ *“Code is like life. You will fail. But you will get back up.”*
