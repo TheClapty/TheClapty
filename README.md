@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=TheClapty&theme=omni&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theclapty&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 
 </div>
 
